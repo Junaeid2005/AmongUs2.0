@@ -1,0 +1,6 @@
+{
+  "name": "Detective Imposter",
+  "description": "An immersive real-time multiplayer social deduction game where detectives share clues to expose the imposter who doesn't know the secret word.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
